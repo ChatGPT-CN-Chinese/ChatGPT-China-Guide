@@ -15,7 +15,7 @@
 **快速开始 - 推荐的 ChatGPT 中文版服务：**
 
 *   **流畅易用：** [gptcat.cc](https://gptcat.cc) (界面友好，支持 GPT-4o 语音)
-*   **功能全面：** [snakegpt.com.cn](https://snakegpt.com.cn) (稳定可靠，集成绘图)
+*   **功能全面：** [snakegpt.vip](https://snakegpt.vip) (稳定可靠，集成绘图)
 
 ---
 
@@ -92,8 +92,8 @@
 
 | **平台名称/地址**    | **核心模型**              | **免费额度** | **中文优化** | **特色功能**                             |
 | :----------------- | :------------------------ | :----------- | :----------- | :--------------------------------------- |
-| **[chat2.gptcat.cc](https://chat2.gptcat.cc)** | GPT-4, GPT-4o, Claude等 | 有           | ⭐⭐⭐⭐⭐    | 界面还原度高，支持 GPT-4o 实时语音/视频 |
-| **[snakegpt.com.cn](https://snakegpt.com.cn)** | GPT-4, GPT-4o, MJ绘图 | 有           | ⭐⭐⭐⭐     | 长期运营，功能全面，集成绘图           |
+| **[gptcat.cc](https://gptcat.cc)** | GPT-4, GPT-4o, Claude等 | 有           | ⭐⭐⭐⭐⭐    | 界面还原度高，支持 GPT-4o 实时语音/视频 |
+| **[snakegpt.vip](https://snakegpt.vip)** | GPT-4, GPT-4o, MJ绘图 | 有           | ⭐⭐⭐⭐     | 长期运营，功能全面，集成绘图           |
 | **[ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)** | GPT-4, GPT-3.5          | 有           | ⭐⭐⭐⭐     | 提供开发者 API                          |
 | **[gptdog.online](https://gptdog.online)** | GPT-3.5                 | 有           | ⭐⭐⭐      | 界面简洁，基础问答适用                 |
 
